@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{826626C8-EFE3-4409-8882-FF799004CABF}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FoodMonk.RecipeBlog.Console/Program.cs">
+    <Files>
+      <File FileName="FoodMonk.RecipeBlog.Console/Program.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.FoodMonk.RecipeBlog.Console PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
